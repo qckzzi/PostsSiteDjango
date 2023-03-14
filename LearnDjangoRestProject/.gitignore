@@ -1,0 +1,5 @@
+app/db.sqlite3
+exchange_app/migrations
+venv
+exchange_app/media
+
