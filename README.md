@@ -13,6 +13,8 @@ In addition to the site, TGBot has been developed to send posts. Only an authori
 
 The application has 3 models: Women (post model), Category (post category model), Profile (model for storing information about a telegram subscriber, his id, name and username)
 
+The dependency version file is stored in **PostsSiteDjango/LearnDjangoRestProject/app/requirements.txt**
+
 **IDE:** PyCharm Professional
 
 **DBMS (СУБД):** SQLite
